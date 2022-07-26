@@ -6,6 +6,8 @@ As I worked through the Telecom customer churn dataset, I learned a lot about cu
 
 This extensive dataset provides several data points for better business insights to improve product and marketing strategies.
 
+Main Goal of this analysis is to improve retention by identifying high value customers and churn risks.
+
 Dataset Link - https://lnkd.in/g4i3gC6a
 
 Visualization Link - https://lnkd.in/gBiVGbPz
